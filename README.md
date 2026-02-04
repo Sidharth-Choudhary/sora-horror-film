@@ -8,6 +8,13 @@ It creates 5 clips (12s each), downloads them locally, deletes remote videos, an
 - Final video: `Horror/final_60s.mp4`
 - Individual clips: `Horror/clip01.mp4` ... `Horror/clip05.mp4`
 - 🎬 Watch on YouTube: <https://www.youtube.com/watch?v=6ABmvijUbf0>
+- 
+## 📖 Medium Article
+
+I wrote a full walkthrough of this project here:
+
+👉 **How I Built a 60-Second Horror Film Using Sora and Python**  
+https://medium.com/@samaykamhai/ai-short-film-pipeline-8604d4d58676
 
 ## Tech Stack
 - Python
