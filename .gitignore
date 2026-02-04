@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Outputs
+Horror/
+output/
+*.mp4
+
+# FFmpeg concat list
+concat_list.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
