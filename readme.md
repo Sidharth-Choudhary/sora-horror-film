@@ -5,7 +5,7 @@ This project generates a 60-second cinematic horror short film using OpenAI's So
 It creates 5 clips (12s each), downloads them locally, deletes remote videos, and concatenates them into a final MP4 using FFmpeg.
 
 ## Final Output
-🎬 Watch on YouTube: <link>
+🎬 Watch on YouTube: <https://www.youtube.com/watch?v=6ABmvijUbf0>
 
 ## Features
 - Scene-by-scene video generation
